@@ -2,11 +2,7 @@
 
 ## Release schedule
 
-| Release  | Status              | Codename     |Initial Release | Active LTS Start | Maintenance Start | End-of-life               |
-| :--:     | :---:               | :---:        | :---:          | :---:            | :---:             | :---:                     |
-| [22.x][] | **Maintenance LTS** | [Jod][]      | 2024-04-24     | 2024-10-29       | 2025-10-21        | 2027-04-30                |
-| [24.x][] | **Active LTS**      | [Krypton][]  | 2025-05-06     | 2025-10-28       | 2026-10-20        | 2028-04-30                |
-| [26.x][] | **Current**         |              | 2026-05-05     | 2026-10-28       | 2027-10-20        | 2029-04-30                |
+| Release  | Status              | Codename     |Initial Release | Active LTS Start | Maintenance Start | End-of-life       
 
 Dates are subject to change.
 
